@@ -1,0 +1,14 @@
+*.pkl
+*.zip
+sample_submission.csv
+submission_*.csv
+data/
+outputs/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.DS_Store
